@@ -24,6 +24,6 @@
 
 ---
 ### ☕ My projects: 
-🏓 Pong: ![[Pong](https://github.com/Andezion/Pong)](https://github.com/Andezion/Pong)
+🏓 Pong: ![(https://github.com/Andezion/Pong)](https://github.com/Andezion/Pong)
 
-🚀 Arcade: ![[Arcade](https://github.com/Andezion/Pong)](https://github.com/Andezion/Arcade)
+🚀 Arcade: ![(https://github.com/Andezion/Pong)](https://github.com/Andezion/Arcade)
