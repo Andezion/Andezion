@@ -18,4 +18,4 @@
 ### 🔥 My stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion)](https://github.com/anuraghazra/github-readme-stats)
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Andezion)](https://github.com/KnlnKS/leetcode-stats)
