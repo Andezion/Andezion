@@ -1,5 +1,5 @@
 ## Hello 🧏‍♂️
----
+
 ### 🤓 I'm computer science student from Poland:
 - I study at Łódź Polytechnic, Faculty of Informatics.
 - I graduated from Kharkov Polytechnic, specialising in Engineering Electrophysics.
@@ -14,6 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab" alt="MatLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="MatLab" alt="MatLab" width="40" height="40"/>&nbsp;
 </div>
+
 ---
 ### 🔥 My stats:
 
