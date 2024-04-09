@@ -1,6 +1,11 @@
 ## Hello 🧏‍♂️
 
-### I'm computer science student 🤓:
+### I'm computer science student from Poland🤓:
+-I study at Łódź Polytechnic, Faculty of Informatics.
+-I graduated from Kharkov Polytechnic, specialising in Engineering Electrophysics.
+-Particularly advanced in solving maths and physics problems.
+-I have a passion for writing games, simulations of physical laws, calculators, and more.
+
 <!--
 **Andezion/Andezion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
