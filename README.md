@@ -27,3 +27,5 @@
 - Pong: [Go to the project 🏓](https://github.com/Andezion/Pong)
 
 - Arcade: [Go to the project 🚀](https://github.com/Andezion/Arcade)
+
+- Devil May Cry 1: [Go to the project 😈](https://github.com/Andezion/Devil.May.Cry1)
