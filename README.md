@@ -28,7 +28,7 @@
 
 - Arcade: [Go to the project 🚀](https://github.com/Andezion/Arcade)
 
-- Dante Savoiur: [Go to the project 🤖](https://github.com/Andezion/GameJam)
+- Dante Saviour: [Go to the project 🤖](https://github.com/Andezion/GameJam)
 
 - Devil May Cry 1: [Go to the project 😈](https://github.com/Andezion/Devil.May.Cry1)
 
