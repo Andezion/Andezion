@@ -30,6 +30,8 @@
 
 - Dante Saviour: [Go to the project 🤖](https://github.com/Andezion/GameJam)
 
+- Checkers: [Go to the project 🎴](https://github.com/Andezion/Checkers)
+
 - Devil May Cry 1: [Go to the project 😈](https://github.com/Andezion/Devil.May.Cry1)
 
   
