@@ -27,6 +27,8 @@
 ### ☕ My projects: 
 - Pong: [Go to the project 🏓](https://github.com/Andezion/Pong)
 
+- Knight: [Go to the project 🤺](https://github.com/Andezion/Knight)
+
 - Arcade: [Go to the project 🚀](https://github.com/Andezion/Arcade)
 
 - Dante Saviour: [Go to the project 🤖](https://github.com/Andezion/GameJam)
