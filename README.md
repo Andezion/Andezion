@@ -40,6 +40,12 @@
 
 - Checkers: [Go to the project 🎴](https://github.com/Andezion/Checkers)
 
-- Devil May Cry 1: [Go to the project 😈](https://github.com/Andezion/Devil.May.Cry1)
+- Sorting Algorithms: [Go to the project 🤓](https://github.com/Andezion/SortingAlgorithms)
+
+- Dante: [Go to the project 😈](https://github.com/Andezion/Dante)
+
+- Gnome Rush: [Go to the project 🧙‍♂️](https://github.com/Andezion/GnomeRush)
+
+- Factory: [Go to the project 🏭](https://github.com/Andezion/Factory)
 
   
