@@ -1,11 +1,13 @@
 # Hello 🧏‍♂️
 
 ## 🤓 I'm CS student from Poland:
-Hi, I am a sixth-semester student at Lodz University of Technology, Faculty of Electronics, Electrical Engineering, and Computer Science, pursuing a degree in Software Engineering. Throughout my studies, I have developed a strong passion for creating independent desktop and mobile applications. I particularly enjoy working on games and simulations, as they allow me to combine technical problem-solving with creativity.
+- Hi, I am a sixth-semester student at Lodz University of Technology, Faculty of Electronics, Electrical Engineering, and Computer Science, pursuing a degree in Software Engineering. In addition, I graduated from the National Technical University ‘Kharkov Polytechnic Institute’ specialising in Engineering Electrophysics!
 
-In my projects, I primarily use programming languages such as C, C++, C#, and Java. Many of my works can be found on my GitHub, where I showcase various applications and experiments. For mobile development, I rely on Flutter and Java, while my experience in game development extends to working with Godot Engine and Unreal Engine.
+- Throughout my studies, I have developed a strong passion for creating independent desktop and mobile applications. I particularly enjoy working on games and simulations, as they allow me to combine technical problem-solving with creativity.
 
-Looking ahead, I am eager to deepen my expertise in C++ and further enhance my skills in Unreal Engine, as I aspire to work on more complex and high-performance applications in the future.
+- In my projects, I primarily use programming languages such as C, C++, C#, and Java. Many of my works can be found on my GitHub, where I showcase various applications and experiments. For mobile development, I rely on Flutter and Java, while my experience in game development extends to working with Godot Engine and Unreal Engine.
+
+- Looking ahead, I am eager to deepen my expertise in C++ and further enhance my skills in Unreal Engine, as I aspire to work on more complex and high-performance applications in the future.
 
 ---
 ## 🛠 Languages and Tools:
