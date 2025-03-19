@@ -7,19 +7,18 @@
 - I have a passion for writing games, simulations of physical laws, calculators, and more.
 ---
 ### 🛠 Languages and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Andezion/Andezion/assets/115638748/b633c9e9-0b02-4b52-9293-b0ff4d5bd14f" title="HolyC" alt="HolyC" width="36" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+- C/C++/C#
+-- SDL, SFML, RayLib, Monogame, Allegro, OpenGL, GLM, Glew, WindowsForm, Glad and Vulkan 
+1) DoddleJump (implementation of parallax effect and multilayer world) 
+2) Knight (first attempts at random world generation and animation in C)
+3) GnomeRush (pseudo-typing in C along with animation)
+4) Pong (multiplayer and collision in a retro two-player ping-pong game)
+5) Simulator of Falling (user interaction and visualisation of falling depending on certain parameters)
+6) Arcade (retro arcade and use of all kinds of C++ containers)
+7) Tanks (multiplayer and maze generation, smart pointers and unique_ptr and databases)
+8) Middle Earth (mini strategy with pseudo-world generation, animation and basic tree logic)
 
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab" alt="MatLab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>
-
+Translated with DeepL.com (free version)
 
 ---
 ### 🔥 My stats:
