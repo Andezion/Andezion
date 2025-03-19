@@ -25,6 +25,11 @@
 3) [SortingAlgorithms](https://github.com/Andezion/SortingAlgorithms) - (visualisation of popular sorting algorithms)
 4) [Checkers](https://github.com/Andezion/Checkers) - (checkers for two)
 
+### Dart
+- Flutter
+1) [Dice Roller](https://github.com/Andezion/DiceRoller) - ()
+2) [Planner](https://github.com/Andezion/DiceRoller) - ()
+
 ---
 ## 🔥 My stats:
 
