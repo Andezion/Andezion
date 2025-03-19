@@ -33,7 +33,7 @@
 ### Dart
 - Flutter
 1) [Dice Roller](https://github.com/Andezion/DiceRoller) - (simple mobile app for rolling the dice) -> Dart / Flutter
-2) [Planner](https://github.com/Andezion/DiceRoller) - (trivial planner for everyday tasks) -> Dart / Flutter
+2) [Planner](https://github.com/Andezion/Planner) - (trivial planner for everyday tasks) -> Dart / Flutter
 
 In additional to that, I have experience in things like:
 - Godot Engine - (experience in writing 2D games)
