@@ -18,7 +18,7 @@
 7) [Tanks](https://github.com/Andezion/Tanks) - (multiplayer and maze generation, smart pointers and unique_ptr and databases)
 8) [WizardRage](https://github.com/Andezion/WizardRage) - (mini strategy with pseudo-world generation, animation and basic tree logic)
 
-## Java
+### Java
 - JavaFX, Swing, AWT, SpringBoot, WebSockets, JavaMobile
 1) [CustomCalculator](https://github.com/Andezion/CustomCalculator) - (my attempt to create a properly working calculator)
 2) [PaintOnline](https://github.com/Andezion/PaintOnline) - (customised multi-user Paint)
