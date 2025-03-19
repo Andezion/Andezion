@@ -21,10 +21,10 @@
 
 ### Java
 - JavaFX, Swing, AWT, SpringBoot, WebSockets, JavaMobile
-1) [CustomCalculator](https://github.com/Andezion/CustomCalculator) - (my attempt to create a properly working calculator)
-2) [PaintOnline](https://github.com/Andezion/PaintOnline) - (customised multi-user Paint)
-3) [SortingAlgorithms](https://github.com/Andezion/SortingAlgorithms) - (visualisation of popular sorting algorithms)
-4) [Checkers](https://github.com/Andezion/Checkers) - (checkers for two)
+1) [CustomCalculator](https://github.com/Andezion/CustomCalculator) - (my attempt to create a properly working calculator) -> Java / Android + Style
+2) [PaintOnline](https://github.com/Andezion/PaintOnline) - (customised multi-user Paint) -> Java / JavaFX + WebSockets + SpringBoot + MySQL
+3) [SortingAlgorithms](https://github.com/Andezion/SortingAlgorithms) - (visualisation of popular sorting algorithms) -> Java / Swing + AWT
+4) [Checkers](https://github.com/Andezion/Checkers) - (checkers for two with strict rules) -> Java / Swing + AWT
 
 ### Dart
 - Flutter
