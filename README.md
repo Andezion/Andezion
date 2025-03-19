@@ -8,7 +8,7 @@
 ---
 ### 🛠 Languages and Tools:
 - C/C++/C#
-SDL, SFML, RayLib, Monogame, Allegro, OpenGL, GLM, Glew, WindowsForm, Glad and Vulkan 
+# SDL, SFML, RayLib, Monogame, Allegro, OpenGL, GLM, Glew, WindowsForm, Glad and Vulkan 
 1) DoddleJump (implementation of parallax effect and multilayer world) 
 2) Knight (first attempts at random world generation and animation in C)
 3) GnomeRush (pseudo-typing in C along with animation)
