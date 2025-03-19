@@ -1,12 +1,12 @@
-## Hello 🧏‍♂️
+# Hello 🧏‍♂️
 
-### 🤓 I'm computer science student from Poland:
+## 🤓 I'm computer science student from Poland:
 - I study at Lodz University of Technology, Faculty of Informatics.
 - I graduated from Kharkov University of Technology, specialising in Engineering Electrophysics.
 - Particularly advanced in solving maths and physics problems.
 - I have a passion for writing games, simulations of physical laws, calculators, and more.
 ---
-# 🛠 Languages and Tools:
+## 🛠 Languages and Tools:
 ### C/C++/C#
 - SDL, SFML, RayLib, Monogame, Allegro, OpenGL, GLM, Glew, WindowsForm, Glad and Vulkan 
 1) DoddleJump (implementation of parallax effect and multilayer world) 
@@ -18,17 +18,15 @@
 7) Tanks (multiplayer and maze generation, smart pointers and unique_ptr and databases)
 8) Middle Earth (mini strategy with pseudo-world generation, animation and basic tree logic)
 
-Translated with DeepL.com (free version)
-
 ---
-### 🔥 My stats:
+## 🔥 My stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://leetcard.jacoblin.cool/Andezion?ext=activity)
 
 ---
-### ☕ My projects: 
+## ☕ My projects: 
 - Pong: [Go to the project 🏓](https://github.com/Andezion/Pong)
 
 - Knight: [Go to the project 🤺](https://github.com/Andezion/Knight)
