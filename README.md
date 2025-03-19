@@ -9,14 +9,14 @@
 ## 🛠 Languages and Tools:
 ### C/C++/C#
 - SDL, SFML, RayLib, Monogame, Allegro, OpenGL, GLM, Glew, WindowsForm, Glad and Vulkan 
-1) [DoddleJump](https://github.com/Andezion/DoddleJump) - (implementation of parallax effect and multilayer world) 
-2) [Knight](https://github.com/Andezion/Knight) - (first attempts at random world generation and animation in C) 
-3) [GnomeRush](https://github.com/Andezion/GnomeRush) - (pseudo-typing in C along with animation)
-4) [Pong](https://github.com/Andezion/Pong) - (multiplayer and collision in a retro two-player ping-pong game)
-5) [Simulator of Falling](https://github.com/Andezion/SimulatorOfFalling) - (user interaction and visualisation of falling depending on certain parameters)
-6) [Arcade](https://github.com/Andezion/Arcade) - (retro arcade and use of all kinds of C++ containers)
-7) [Tanks](https://github.com/Andezion/Tanks) - (multiplayer and maze generation, smart pointers and unique_ptr and databases)
-8) [WizardRage](https://github.com/Andezion/WizardRage) - (mini strategy with pseudo-world generation, animation and basic tree logic)
+1) [DoddleJump](https://github.com/Andezion/DoddleJump) - (implementation of parallax effect and multilayer world) -> C++ / SFML + Raylib
+2) [Knight](https://github.com/Andezion/Knight) - (first attempts at random world generation and animation in C) -> C / SDL
+3) [GnomeRush](https://github.com/Andezion/GnomeRush) - (pseudo-typing in C along with animation) -> C / SDL
+4) [Pong](https://github.com/Andezion/Pong) - (multiplayer and collision in a retro two-player ping-pong game) -> C++ / SFML + Allegro
+5) [Simulator of Falling](https://github.com/Andezion/SimulatorOfFalling) - (user interaction and visualisation of falling depending on certain parameters) -> C++ / SFML
+6) [Arcade](https://github.com/Andezion/Arcade) - (retro arcade and use of all kinds of C++ containers) -> C++ / SFML
+7) [Tanks](https://github.com/Andezion/Tanks) - (multiplayer and maze generation, smart pointers and unique_ptr and databases) -> C++ / SFML and Allegro
+8) [WizardRage](https://github.com/Andezion/WizardRage) - (mini strategy with pseudo-world generation, animation and basic tree logic) -> C++ / SFML
 
 ### Java
 - JavaFX, Swing, AWT, SpringBoot, WebSockets, JavaMobile
