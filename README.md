@@ -1,7 +1,6 @@
 # Hello 🧏‍♂️
 
-## 🤓 I'm CS student from Poland:
-- Hi, I am a sixth-semester student at Lodz University of Technology, Faculty of Electronics, Electrical Engineering, and Computer Science, pursuing a degree in Software Engineering. In addition, I graduated from the National Technical University ‘Kharkov Polytechnic Institute’ specialising in Engineering Electrophysics!
+## 🤓 I'm CS student:
 
 - Throughout my studies, I have developed a strong passion for creating independent desktop and mobile applications. I particularly enjoy working on games and simulations, as they allow me to combine technical problem-solving with creativity.
 
