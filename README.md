@@ -56,12 +56,12 @@ I have worked with both relational and non-relational databases, as well as back
 <tr>
 <td align="center" width="50%">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion&layout=compact&theme=dark&hide_border=true" width="100%"/>
 
 </td>
 <td align="center" width="50%">
   
-![LeetCode Stats](https://leetcard.jacoblin.cool/Andezion?ext=activity&theme=dark)  
+<img src="https://leetcard.jacoblin.cool/Andezion?ext=activity&theme=dark" width="100%"/>
 
 </td>
 </tr>
@@ -69,24 +69,25 @@ I have worked with both relational and non-relational databases, as well as back
 <tr>
 <td align="center" width="50%">
   
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Andezion&theme=dark&hide_border=true)  
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Andezion&theme=dark&hide_border=true" width="100%"/>
 
 </td>
 <td align="center" width="50%">
   
-![Codewars Stats](https://github.r2v.ch/codewars?user=Andezion&stroke=%23BB432C)  
+<img src="https://github.r2v.ch/codewars?user=Andezion&stroke=%23BB432C" width="100%"/>
 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="100%">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andezion&theme=dark&hide_border=true)
+<td colspan="2" align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Andezion&theme=dark&hide_border=true" width="100%"/>
 
 </td>
 </tr>
 </table>
+
 
 ---
 
