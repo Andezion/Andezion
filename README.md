@@ -23,8 +23,11 @@ I also explore **mobile development** with **Java** and **Flutter**.
 ### Systems & Low-level Development  
 
 ![C++](https://skillicons.dev/icons?i=cpp) : SFML · OpenGL · Vulkan · Raylib · Allegro · Asio/Boost.Asio · Qt · GoogleTest
+
 ![C](https://skillicons.dev/icons?i=c) : SDL · Contiki-NG · GTK · Zephyr RTOS · zlib · OpenSSL
+
 ![Rust](https://skillicons.dev/icons?i=rust) : Actix · Spark · Titan · Tokio · Serde · reqwest · dalek
+
 ![Zig](https://skillicons.dev/icons?i=zig) : zig-json · zig-network · zig-crypto 
 
 
