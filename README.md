@@ -1,48 +1,54 @@
-# 👋 Hi there, I'm Vladislav
+# 👋 Hi there, I'm Vladislav  
+![Profile views](https://komarev.com/ghpvc/?username=Andezion&label=Profile%20views&color=0e75b6&style=flat)
 
 🎯 **Current Focus**  
-I'm deeply immersed in **C++**, **Rust**, **C**, and a bit of **Zig** — these languages take up most of my development time.  
-I also explore **mobile development** with **Java** and **Flutter**.  
+I spend most of my development time with **C++**, **Rust**, **C**, and a bit of **Zig**.  
+I also explore **mobile development** with **Java** and **Flutter**.
 
 🛠 **Main Domains**  
-- Data encryption, compression, and transmission  
+- Data encryption, compression & transmission  
 - Embedded systems & IoT devices  
 - Cryptography & blockchain solutions  
 - Backend development & networking  
 
 📈 **Future Goals**  
 - Advance in **C++**, **Rust**, **C**, and **Zig**  
-- Strengthen skills in **network programming** and **IoT development**  
-- Dive deeper into **cryptography** and **blockchain** technologies  
+- Strengthen skills in **network programming** and **IoT**  
+- Dive deeper into **cryptography** & **blockchain**  
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
-**Systems & Low-level Development**  
-`C` · `C++` · `Rust` · `Zig`  
+### 🖥 Systems & Low-level Development  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,zig,cmake,linux,git)](https://skillicons.dev)  
 SDL · SFML · OpenGL · Vulkan · Raylib · Allegro · GLM · GLEW
 
-**Mobile Development**  
-`Java` · `Flutter` (Dart)  
+### 📱 Mobile Development  
+[![My Skills](https://skillicons.dev/icons?i=java,dart,flutter,androidstudio)](https://skillicons.dev)  
 JavaFX · Swing · AWT · Android SDK
 
-**Backend & Databases**  
-Spring Boot · WebSockets · MySQL · PostgreSQL · Docker
+### 🌐 Backend & Databases  
+[![My Skills](https://skillicons.dev/icons?i=spring,docker,mysql,postgresql)](https://skillicons.dev)  
+WebSockets · Oracle · REST APIs
 
-**Other**  
-Godot Engine · Unreal Engine · Oracle · Git
+### 🎮 Other Tools & Engines  
+[![My Skills](https://skillicons.dev/icons?i=godot,unreal,blender)](https://skillicons.dev)
 
 ---
 
 ## 📊 Stats & Competitive Programming
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion&layout=compact&theme=dark" height="200">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andezion&show_icons=true&theme=dark)
 
-<img src="https://leetcard.jacoblin.cool/Andezion?ext=activity&theme=dark" height="200">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Andezion&theme=dark" height="200">
-<img src="https://github.r2v.ch/codewars?user=Andezion&stroke=%23BB432C" height="200">
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Andezion)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Andezion?ext=activity&theme=dark)  
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Andezion&theme=dark)  
+![Codewars Stats](https://github.r2v.ch/codewars?user=Andezion&stroke=%23BB432C)
 
 ---
-📫 **Contact:** [LinkedIn](#) · [Email](#) · [Telegram](#)
+
+📫 **Contact:**  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](#)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](#)
