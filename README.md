@@ -44,7 +44,7 @@ I can create games using **Godot Engine** and **Unreal Engine**, combining techn
 ### 🗄 Databases & Backend Tools
 I have worked with both relational and non-relational databases, as well as backend frameworks and containerization tools.  
 
-![Backend Skills](https://skillicons.dev/icons?i=spring,docker,kubernetes,mysql,postgresql,oracle,cmake,bash,linux)
+![Backend Skills](https://skillicons.dev/icons?i=spring,docker,kubernetes,mysql,postgresql,cmake,bash,linux)
 
 **Technologies:** Oracle · PostgreSQL · MySQL · Docker · Kubernetes · CMake · Bash · Linux · REST APIs · WebSockets
 
