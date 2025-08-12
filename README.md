@@ -56,7 +56,7 @@ I have worked with both relational and non-relational databases, as well as back
 <tr>
 <td align="center" width="50%">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion&layout=compact&theme=dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion&layout=compact)
 
 </td>
 <td align="center" width="50%">
@@ -81,9 +81,6 @@ I have worked with both relational and non-relational databases, as well as back
 </table>
 
 ---
-
-### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andezion&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ---
