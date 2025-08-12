@@ -56,7 +56,7 @@ I have worked with both relational and non-relational databases, as well as back
 <tr>
 <td align="center" width="50%">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion)
 
 </td>
 <td align="center" width="50%">
