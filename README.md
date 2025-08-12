@@ -53,7 +53,6 @@ I have worked with both relational and non-relational databases, as well as back
 ## 📊 Stats & Competitive Programming
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andezion&show_icons=true&theme=dark)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Andezion?ext=activity&theme=dark)  
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Andezion&theme=dark)  
