@@ -30,9 +30,9 @@ I also explore **mobile development** with **Java** and **Flutter**.
 
 
 
-## 💡 Additional Skills
+## Additional Skills
 
-### 📱 Other Programming Languages & Mobile Development
+### Other Programming Languages & Mobile Development
 I also have experience with Java, C#, and Flutter for building mobile and cross-platform applications.  
 I can create games using **Godot Engine** and **Unreal Engine**, combining technical programming with creative design.
 
@@ -40,7 +40,7 @@ I can create games using **Godot Engine** and **Unreal Engine**, combining techn
 
 ---
 
-### 🗄 Databases & Backend Tools
+### Databases & Backend Tools
 I have worked with both relational and non-relational databases, as well as backend frameworks and containerization tools.  
 
 ![Backend Skills](https://skillicons.dev/icons?i=spring,docker,kubernetes,mysql,postgresql,cmake,bash,linux)
@@ -50,7 +50,7 @@ I have worked with both relational and non-relational databases, as well as back
 
 ---
 
-## 📊 Stats & Competitive Programming
+## Stats & Competitive Programming
 
 <table>
 <tr>
