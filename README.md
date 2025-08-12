@@ -1,5 +1,4 @@
 # Hi there, I'm Vladislav  
-![Profile views](https://komarev.com/ghpvc/?username=Andezion&label=Profile%20views&color=0e75b6&style=flat)
 
 **Current Focus**  
 I spend most of my development time with **C++**, **Rust**, **C**, and a bit of **Zig**.  
@@ -62,7 +61,7 @@ I have worked with both relational and non-relational databases, as well as back
 
 ---
 
-📫 **Contact:**  
+## 📫 Contact  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](#)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](#)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](#)
