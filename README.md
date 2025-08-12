@@ -49,7 +49,7 @@ In additional to that, I have experience in things like:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Andezion?ext=activity)
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Andezion)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Andezion) ![Codewars](https://github.r2v.ch/codewars?user=Andezion)
 
 
   
