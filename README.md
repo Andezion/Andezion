@@ -31,16 +31,23 @@ I also explore **mobile development** with **Java** and **Flutter**.
 
 
 
-### 📱 Mobile Development  
-![My Skills](https://skillicons.dev/icons?i=java,dart,flutter,androidstudio)
-JavaFX · Swing · AWT · Android SDK
+## 💡 Additional Skills
 
-### 🌐 Backend & Databases  
-![My Skills](https://skillicons.dev/icons?i=spring,docker,mysql,postgresql) 
-WebSockets · Oracle · REST APIs
+### 📱 Other Programming Languages & Mobile Development
+I also have experience with Java, C#, and Flutter for building mobile and cross-platform applications.  
+I can create games using **Godot Engine** and **Unreal Engine**, combining technical programming with creative design.
 
-### 🎮 Other Tools & Engines  
-![My Skills](https://skillicons.dev/icons?i=godot,unreal,blender)
+![Mobile Skills](https://skillicons.dev/icons?i=java,cs,dart,flutter,androidstudio,godot,unreal)
+
+---
+
+### 🗄 Databases & Backend Tools
+I have worked with both relational and non-relational databases, as well as backend frameworks and containerization tools.  
+
+![Backend Skills](https://skillicons.dev/icons?i=spring,docker,kubernetes,mysql,postgresql,oracle,cmake,bash,linux)
+
+**Technologies:** Oracle · PostgreSQL · MySQL · Docker · Kubernetes · CMake · Bash · Linux · REST APIs · WebSockets
+
 
 ---
 
