@@ -45,9 +45,8 @@ In additional to that, I have experience in things like:
 ---
 ## 🔥 My stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion)](https://github.com/anuraghazra/github-readme-stats) ![Leetcode Stats](https://leetcard.jacoblin.cool/Andezion?ext=activity)
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Andezion) ![Codewars](https://github.r2v.ch/codewars?user=Andezion)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion)](https://github.com/anuraghazra/github-readme-stats) ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Andezion)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Andezion?ext=activity) ![Codewars](https://github.r2v.ch/codewars?user=Andezion)
 
 
   
