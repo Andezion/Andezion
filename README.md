@@ -38,10 +38,11 @@ Godot Engine · Unreal Engine · Oracle · Git
 ## 📊 Stats & Competitive Programming
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion&layout=compact&theme=dark" height="200">
-<img src="https://github-readme-stats.vercel.app/api?username=Andezion&show_icons=true&theme=dark" height="200">
 
+<img src="https://leetcard.jacoblin.cool/Andezion?ext=activity&theme=dark" height="200">
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Andezion&theme=dark" height="200">
 <img src="https://github.r2v.ch/codewars?user=Andezion&stroke=%23BB432C" height="200">
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Andezion)
 
 ---
 📫 **Contact:** [LinkedIn](#) · [Email](#) · [Telegram](#)
