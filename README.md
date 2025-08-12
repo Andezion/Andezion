@@ -56,7 +56,7 @@ I have worked with both relational and non-relational databases, as well as back
 <tr>
 <td align="center" width="50%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion&layout=compact&theme=dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion&theme=dark&hide_border=true" width="100%"/>
 
 </td>
 <td align="center" width="50%">
