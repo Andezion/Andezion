@@ -1,4 +1,4 @@
-# Hi there, I'm Vladislav  
+# Hi there,
 
 **Current Focus**  
 I spend most of my development time with **C++**, **Rust**, **C**, and a bit of **Zig**.  
