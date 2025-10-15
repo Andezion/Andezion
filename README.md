@@ -82,7 +82,7 @@ I have worked with both relational and non-relational databases, as well as back
 <tr>
 <td colspan="2" align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Andezion&theme=dark&hide_border=true" width="100%"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Andezion&theme=dark)](https://git.io/streak-stats)
 
 </td>
 </tr>
