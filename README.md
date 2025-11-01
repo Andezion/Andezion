@@ -4,6 +4,9 @@
 I spend most of my development time with **C++**, **Rust**, **C**, and a bit of **Zig**.  
 I also explore **mobile development** with **Java** and **Flutter**.
 
+
+
+
 **Main Domains**  
 - Data encryption, compression & transmission  
 - Embedded systems & IoT devices  
