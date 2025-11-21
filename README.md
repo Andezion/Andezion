@@ -1,5 +1,7 @@
 # Hi there,
 
+[![committers.top badge](https://user-badge.committers.top/poland/Andezion.svg)](https://user-badge.committers.top/poland/Andezion)
+
 **Current Focus**  
 I spend most of my development time with **C++**, **Rust**, **C**, and a bit of **Zig**.  
 I also explore **mobile development** with **Java** and **Flutter**.
