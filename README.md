@@ -11,6 +11,10 @@ I also explore **mobile development** with **Java** and **Flutter**.
 
 
 
+
+
+
+
 **Main Domains**  
 - Data encryption, compression & transmission  
 - Embedded systems & IoT devices  
