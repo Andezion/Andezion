@@ -20,7 +20,8 @@ I also explore **mobile development** with **Java** and **Flutter**.
 - Data encryption, compression & transmission  
 - Embedded systems & IoT devices  
 - Cryptography & blockchain solutions  
-- Backend development & networking  
+- Backend development & networking
+- High-Performance & Parallel Computing
 
 **Future Goals**  
 - Advance in **C++**, **Rust**, **C**, **Go** and **Zig**  
