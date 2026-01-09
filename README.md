@@ -3,7 +3,7 @@
 
 
 **Current Focus**  
-I spend most of my development time with **C++**, **Rust**, **C**, and a bit of **Zig**.  
+I spend most of my development time with **C++**, **Rust**, **C**, and a bit of **Zig** and **Go**.  
 I also explore **mobile development** with **Java** and **Flutter**.
 
 
