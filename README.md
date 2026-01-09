@@ -38,7 +38,7 @@ I also explore **mobile development** with **Java** and **Flutter**.
 |  ![C](https://skillicons.dev/icons?i=c)| SDL · Contiki-NG · GTK · Zephyr RTOS · zlib · OpenSSL |
 |  ![Rust](https://skillicons.dev/icons?i=rust)| Actix · Spark · Titan · Tokio · Serde · Reqwest · dalek |
 |  ![Zig](https://skillicons.dev/icons?i=zig)| zig-json · zig-network · zig-crypto |
-|  ![Go](https://skillicons.dev/icons?i=go)| · · · |
+|  ![Go](https://skillicons.dev/icons?i=go)| grpc-go · context · grpc load balancers · pprof|
 
 
 
