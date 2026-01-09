@@ -22,7 +22,7 @@ I also explore **mobile development** with **Java** and **Flutter**.
 - Backend development & networking  
 
 **Future Goals**  
-- Advance in **C++**, **Rust**, **C**, and **Zig**  
+- Advance in **C++**, **Rust**, **C**, **Go** and **Zig**  
 - Strengthen skills in **network programming** and **IoT**  
 - Dive deeper into **cryptography** & **blockchain**  
 
@@ -38,6 +38,7 @@ I also explore **mobile development** with **Java** and **Flutter**.
 |  ![C](https://skillicons.dev/icons?i=c)| SDL · Contiki-NG · GTK · Zephyr RTOS · zlib · OpenSSL |
 |  ![Rust](https://skillicons.dev/icons?i=rust)| Actix · Spark · Titan · Tokio · Serde · Reqwest · dalek |
 |  ![Zig](https://skillicons.dev/icons?i=zig)| zig-json · zig-network · zig-crypto |
+|  ![Go](https://skillicons.dev/icons?i=go)| · · · |
 
 
 
