@@ -1,6 +1,6 @@
 # Hi there,
 
-
+https://github-profile-trophy.vercel.app/?username=Andezion&theme=flat&row=2&column=6
 
 **Current Focus**  
 - C++
