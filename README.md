@@ -1,7 +1,5 @@
 # Hi there,
 
-https://github-profile-trophy.vercel.app/?username=Andezion&theme=flat&row=2&column=6
-
 **Current Focus**  
 - C++
 - C
@@ -109,5 +107,7 @@ I have worked with both relational and non-relational databases, as well as back
 </td>
 </tr>
 </table>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Andezion&theme=flat&row=2&column=6"/>
 
 ---
