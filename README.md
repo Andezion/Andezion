@@ -108,6 +108,4 @@ I have worked with both relational and non-relational databases, as well as back
 </tr>
 </table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Andezion&theme=flat&row=2&column=6"/>
-
 ---
