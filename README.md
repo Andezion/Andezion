@@ -102,7 +102,7 @@ I have worked with both relational and non-relational databases, as well as back
 <tr>
 <td colspan="2" align="center">
   
-<img src="https://streak-stats.vercel.app?user=Andezion&theme=dark" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Andezion&theme=highcontrast" width="100%"/>
 
 </td>
 </tr>
