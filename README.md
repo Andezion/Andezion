@@ -94,7 +94,7 @@ I have worked with both relational and non-relational databases, as well as back
 </td>
 <td align="center" width="50%">
   
-<img src="https://github.r2v.ch/codewars?user=Andezion&stroke=%23BB432C" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Andezion&theme=merko"/>
 
 </td>
 </tr>
