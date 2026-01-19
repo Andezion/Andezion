@@ -15,6 +15,9 @@
 
 
 
+
+
+
 **Main Domains**  
 - Data encryption, compression & transmission  
 - Embedded systems & IoT devices  
