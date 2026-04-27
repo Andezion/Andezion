@@ -1,15 +1,7 @@
 # Hi there,
 
-**Current Focus**  
-- C++
-- C
-- Rust
-- Go
-- CUDA
-- Zig
-
-
 **Main Domains**  
+- C++, C, Rust, Go, CUDA, Zig
 - Data encryption, compression & transmission  
 - Embedded systems & IoT devices  
 - Cryptography & blockchain solutions  
