@@ -16,18 +16,6 @@
 - Backend development & networking
 - High-Performance & Parallel Computing
 
-**Current Interests and Future Goals**
-
-- GPU-accelerated computation using CUDA for cryptography, compression, and data processing
-- Modern systems languages (Rust, Zig) for safer and more predictable low-level software
-- Go-based microservices for resilient, observable distributed systems
-- Advanced networking: TCP/UDP internals, QUIC-like protocols, async runtimes
-- Interoperability between low-level systems and high-level services
-- Advance expertise in C++, Rust, C, Go, Zig, and CUDA, with a strong focus on performance and correctness
-- Deepen knowledge of network programming, distributed systems, and IoT architectures
-- Continue diving into cryptography & blockchain, especially protocol design and secure systems
-- Build production-grade, observable, and resilient systems that span embedded devices -> backend services -> GPU-accelerated workloads
-
 ---
 
 ## Tech Stack
