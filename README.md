@@ -49,8 +49,8 @@ I have worked with both relational and non-relational databases, as well as back
 <table>
 <tr>
 <td align="center" width="50%">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andezion&theme=github_dark)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion&layout=compact&theme=github_dark&langs_count=8&cache_seconds=1800" width="100%"/>
 
 </td>
 <td align="center" width="50%">
