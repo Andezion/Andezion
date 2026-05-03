@@ -50,7 +50,7 @@ I have worked with both relational and non-relational databases, as well as back
 <tr>
 <td align="center" width="50%">
   
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andezion&theme=github_dark" width="100%"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andezion&stats_format=bytes)
 
 </td>
 <td align="center" width="50%">
