@@ -84,3 +84,5 @@ I have worked with both relational and non-relational databases, as well as back
 </table>
 
 ---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andezion&theme=cyber-streakglow&border_radius=&fire=252AEB)](https://git.io/streak-stats)
