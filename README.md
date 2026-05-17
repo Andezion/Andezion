@@ -1,6 +1,6 @@
 # Hi there,
 
-
+<img src="stuff/git_top.gif"/>
 
 **Main Domains**  
 - C++, C, Rust, Go, CUDA, Zig
