@@ -1,6 +1,6 @@
 # Hi there,
 
-![mygif](https://github.com/Andezion/Andezion/stuff/gif_top.gif)
+![mygif](stuff/gif_top.gif)
 
 **Main Domains**  
 - C++, C, Rust, Go, CUDA, Zig
