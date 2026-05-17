@@ -85,4 +85,4 @@ I have worked with both relational and non-relational databases, as well as back
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andezion&theme=sakura-x&border_radius=&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
