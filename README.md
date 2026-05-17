@@ -1,6 +1,6 @@
 # Hi there,
-<img src="stuff/gif_top.gif" width="100%">
-![mygif](stuff/gif_top.gif)
+// <img src="stuff/gif_top.gif" width="100%">
+
 
 **Main Domains**  
 - C++, C, Rust, Go, CUDA, Zig
