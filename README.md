@@ -1,5 +1,4 @@
 # Hi there,
-// <img src="stuff/gif_top.gif" width="100%">
 
 
 **Main Domains**  
