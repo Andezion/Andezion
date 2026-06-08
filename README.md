@@ -1,5 +1,8 @@
 # Hi there,
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Andezion&style=for-the-badge&color=0ea5e9"/>
+</p>
 
 **Main Domains**  
 - C++, C, Rust, Go, CUDA, Zig
