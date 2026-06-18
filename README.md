@@ -4,7 +4,30 @@
   <img src="https://komarev.com/ghpvc/?username=Andezion&style=for-the-badge&color=0ea5e9"/>
 </p>
 
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cf-rating-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cf-stats-dark.svg )
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/competitive-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-kata-dark.svg)
 
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-languages-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-rank-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-commit-streak-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-contributions-dark.svg) 
+
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-heatmap-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-monthly-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-repos-dark.svg )
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-social-dark.svg)
+
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-stats-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-visitors-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/langs-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-badges-dark.svg)
+
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-languages-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-skills-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-solved-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/streak-dark.svg)
 
 
 **Main Domains**  
