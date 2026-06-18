@@ -4,6 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=Andezion&style=for-the-badge&color=0ea5e9"/>
 </p>
 
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-stats-dark.svg)
+
+
 **Main Domains**  
 - C++, C, Rust, Go, CUDA, Zig
 - Data encryption, compression & transmission  
