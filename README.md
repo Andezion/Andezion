@@ -1,14 +1,14 @@
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/test1_stuff.svg)
 
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/test2_stuff.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/competitive-dark.svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Andezion&style=for-the-badge&color=0ea5e9"/>
 </p>
 
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cf-rating-dark.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cf-stats-dark.svg )
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/competitive-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cf-stats-dark.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-kata-dark.svg)
 
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-languages-dark.svg)
