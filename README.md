@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/custom-text-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/text1_stuff.svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Andezion&style=for-the-badge&color=0ea5e9"/>
