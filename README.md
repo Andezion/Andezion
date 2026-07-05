@@ -1,10 +1,6 @@
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/test1_stuff.svg)
 
-|![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/test2_stuff.svg) | ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/competitive-dark.svg) |
-|--|--|
-
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/test2_stuff.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/competitive-dark.svg)
+<img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/test2_stuff.svg" width="510" height="195" align="top"/><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/competitive-dark.svg" width="495" height="195" align="top"/>
 
 
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cf-rating-dark.svg)
