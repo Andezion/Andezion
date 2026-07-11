@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/test1_stuff.svg)
 
 <img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/test2_stuff.svg" width="450" height="200" align="top"/>
-<img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/competitive-dark.svg" width="495" height="195" align="top"/>
+<img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/competitive-dark.svg" width="450" height="200" align="top"/>
 
 
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cf-rating-dark.svg)
