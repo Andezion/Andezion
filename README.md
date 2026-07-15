@@ -28,6 +28,8 @@
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-solved-dark.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/streak-dark.svg)
 
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-engagement-dark.svg)
+
 
 **Main Domains**  
 - C++, C, Rust, Go, CUDA, Zig
