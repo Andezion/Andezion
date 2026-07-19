@@ -1,50 +1,53 @@
-[comment]: <> (тут у нас обычное приветствие, оно у нас самое первое и на всю ширину экрана)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/test1_stuff.svg)
+[comment]: <> (мастер-сетка: 990px = 495 + 495. Каждый виджет сведён к этой сетке через width/height на img, зазоров быть не должно)
 
-[comment]: <> (тут у нас инфа про наш компететив программинг, 2 виджета в одном ряду состыковываются по высоте)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/test2_stuff.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/competitive-dark.svg)
+[comment]: <> (1. приветствие, на всю ширину: 990x120)
+<img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/test1_stuff.svg" width="990" height="120" style="display:block;margin:0;"/>
 
-[comment]: <> (тут у нас инфа про кодфорс, 3 виджета первый слева а 2 и 3 справа друг под другом состыковываются по ширине. То есть в левой колонке у нас текст, а в правой колонке сверху вниз идут 2 виджета - рейтинг и статистика)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/codeforce.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cf-rating-dark.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cf-stats-dark.svg)
+[comment]: <> (2. компетитив, 2 виджета в ряд, высота 195: 495+495)
+<table style="border-collapse:collapse;border-spacing:0;margin:0;" cellspacing="0" cellpadding="0" border="0"><tr>
+<td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/test2_stuff.svg" width="495" height="195" style="display:block;"/></td><td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/competitive-dark.svg" width="495" height="195" style="display:block;"/></td>
+</tr></table>
 
-[comment]: <> (тут у нас инфа про кодварс, 4 виджета, 2 в одной колонке и 2 в другой колонке состыковываются по высоте, текст самый первый в левом верхнем углу, справа от него 1 виджет, под текстом в левом нижнем углу 2 виджет, справа от него 3 виджет. То есть левая колонка верх - текст, справа от текста у нас cw-rank-dark, под текстом в левой колонке у нас cw-kata-dark, справа от него в правой колонке у нас cw-languages-dark)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/codewars.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-rank-dark.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-kata-dark.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-languages-dark.svg)
+[comment]: <> (3. кодфорс: слева текст 495x285, справа рейтинг+статистика 495 в столбик 165+120=285)
+<table style="border-collapse:collapse;border-spacing:0;margin:0;" cellspacing="0" cellpadding="0" border="0"><tr>
+<td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/codeforce.svg" width="495" height="285" style="display:block;"/></td><td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cf-rating-dark.svg" width="495" height="165" style="display:block;"/><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cf-stats-dark.svg" width="495" height="120" style="display:block;"/></td>
+</tr></table>
 
-[comment]: <> (тут у нас инфа про литкод, 5 виджетов, 1 первом левой колонке у нас 3 виджета, а именно текст, языки и количество решенных задач, они идут один под одним и состыкованы по ширине, во второй колонке у нас 2 виджета, а именно навыки и бейджики и тоже состыкованы по ширине. то есть левая колонка leetcode - под ним lc-languages-dark под ним lc-solved-dark, а правая колонка lc-skills-dark - под ним lc-badges-dark)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/leetcode.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-languages-dark.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-solved-dark.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-skills-dark.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-badges-dark.svg)
+[comment]: <> (4. кодварс: 2x2, верх 165, низ 170)
+<table style="border-collapse:collapse;border-spacing:0;margin:0;" cellspacing="0" cellpadding="0" border="0">
+<tr><td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/codewars.svg" width="495" height="165" style="display:block;"/></td><td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-rank-dark.svg" width="495" height="165" style="display:block;"/></td></tr>
+<tr><td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-kata-dark.svg" width="495" height="170" style="display:block;"/></td><td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-languages-dark.svg" width="495" height="170" style="display:block;"/></td></tr>
+</table>
 
+[comment]: <> (5. литкод: слева 3 виджета в столбик 181+217+211=609, справа 2 виджета 355+254=609)
+<table style="border-collapse:collapse;border-spacing:0;margin:0;" cellspacing="0" cellpadding="0" border="0"><tr>
+<td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/leetcode.svg" width="495" height="181" style="display:block;"/><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-languages-dark.svg" width="495" height="217" style="display:block;"/><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-solved-dark.svg" width="495" height="211" style="display:block;"/></td>
+<td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-skills-dark.svg" width="495" height="355" style="display:block;"/><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-badges-dark.svg" width="495" height="254" style="display:block;"/></td>
+</tr></table>
 
-[comment]: <> (тут у нас инфа про гитхаб коммиты, 3 виджета - 1 текст слева в колонке и напротив него справа во 2 колонке 2 виджета состыкованных по ширине, а именно github-commit-streak-dark и github-contributions-dark)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/commits.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-commit-streak-dark.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-contributions-dark.svg) 
+[comment]: <> (6. коммиты за год: слева текст 495x325, справа streak+contributions 150+175=325)
+<table style="border-collapse:collapse;border-spacing:0;margin:0;" cellspacing="0" cellpadding="0" border="0"><tr>
+<td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/commits.svg" width="495" height="325" style="display:block;"/></td>
+<td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-commit-streak-dark.svg" width="495" height="150" style="display:block;"/><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-contributions-dark.svg" width="495" height="175" style="display:block;"/></td>
+</tr></table>
 
-[comment]: <> (тут у нас 3 виджета, первый текст на всю ширину экрана в ряду и под ним ещё 2 виджета состыкованных по ширине, а именно github-heatmap-dark и github-monthly-dark)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/commits_details.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-heatmap-dark.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-monthly-dark.svg)
+[comment]: <> (7. коммиты подробно: баннер 990x80, ниже heatmap+monthly по 495x210)
+<table style="border-collapse:collapse;border-spacing:0;margin:0;" cellspacing="0" cellpadding="0" border="0">
+<tr><td colspan="2" style="padding:0;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/commits_details.svg" width="990" height="80" style="display:block;"/></td></tr>
+<tr><td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-heatmap-dark.svg" width="495" height="210" style="display:block;"/></td><td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-monthly-dark.svg" width="495" height="210" style="display:block;"/></td></tr>
+</table>
 
+[comment]: <> (8. общий профиль: баннер 990x90, ниже 2x2 - repos/social 120, stats/langs 195)
+<table style="border-collapse:collapse;border-spacing:0;margin:0;" cellspacing="0" cellpadding="0" border="0">
+<tr><td colspan="2" style="padding:0;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/full.svg" width="990" height="90" style="display:block;"/></td></tr>
+<tr><td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-repos-dark.svg" width="495" height="120" style="display:block;"/></td><td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-social-dark.svg" width="495" height="120" style="display:block;"/></td></tr>
+<tr><td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-stats-dark.svg" width="495" height="195" style="display:block;"/></td><td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/langs-dark.svg" width="495" height="195" style="display:block;"/></td></tr>
+</table>
 
-[comment]: <> (тут у нас 5 виджетов, первый это текст и он на всю ширину экрана, потом под ним 4 виджета, по 2 в каждой колонке, сначала github-repos-dark, рядом с ним справа github-social-dark, под github-social-dark идут langs-dark и слева от langs-dark и под github-repos-dark идёт github-stats-dark)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/full.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-repos-dark.svg )
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-social-dark.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-stats-dark.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/langs-dark.svg)
-
-[comment]: <> (тут у нас 2 виджета и они находятся в одном ряду - рядом друг с друом, состыкованы по высоте)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-visitors-dark.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-engagement-dark.svg)
+[comment]: <> (9. visitors + engagement, 2 виджета в ряд, высота 676: 495+495)
+<table style="border-collapse:collapse;border-spacing:0;margin:0;" cellspacing="0" cellpadding="0" border="0"><tr>
+<td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-visitors-dark.svg" width="495" height="676" style="display:block;"/></td><td style="padding:0;vertical-align:top;"><img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-engagement-dark.svg" width="495" height="676" style="display:block;"/></td>
+</tr></table>
 
 
 **Main Domains**  
