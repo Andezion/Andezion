@@ -1,11 +1,15 @@
+[comment]: <> (тут у нас обычное приветствие, оно у нас самое первое и на всю ширину экрана)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/test1_stuff.svg)
 
-<img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/test2_stuff.svg" width="400" height="200" align="left"/>
-<img src="https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/competitive-dark.svg" width="420" height="200" align="right"/>
+[comment]: <> (тут у нас инфа про наш компететив программинг, 2 виджета в одном ряду состыковываются по высоте)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/test2_stuff.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/competitive-dark.svg)
 
-
+[comment]: <> (тут у нас инфа про кодфорс, 3 виджета первый слева а 2 и 3 справа друг под другом состыковываются по ширине)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/codeforce.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cf-rating-dark.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cf-stats-dark.svg)
+
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-kata-dark.svg)
 
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-languages-dark.svg)
