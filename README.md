@@ -23,11 +23,16 @@
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-skills-dark.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-solved-dark.svg)
 
+[comment]: <> (тут у нас инфа про гитхаб коммиты, 3 виджета - 1 текст слева в колонке и напротив него справа во 2 колонке 2 виджета состыкованных по ширине, а именно статистика коммитов и статистика активности)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/commits.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-commit-streak-dark.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-contributions-dark.svg) 
 
+[comment]: <> (тут у нас 3 виджета, первый текст на всю ширину экрана в ряду и под ним ещё 2 виджета состыкованных по ширине, а именно статистика коммитов и тепловая карта)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/commits_details.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-heatmap-dark.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-monthly-dark.svg)
+
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-repos-dark.svg )
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-social-dark.svg)
 
@@ -36,7 +41,6 @@
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/langs-dark.svg)
 
 
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/streak-dark.svg)
 
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-engagement-dark.svg)
 
