@@ -10,10 +10,12 @@
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cf-rating-dark.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cf-stats-dark.svg)
 
+[comment]: <> (тут у нас инфа про кодварс, 4 виджета, 2 в одном ряду и 2 в другом ряду состыковываются по высоте, текст самый первый в левом верхнем углу, справа от него 1 виджет, под текстом в левом нижнем углу 2 виджет, справа от него 3 виджет)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/codewars.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-kata-dark.svg)
-
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-languages-dark.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-rank-dark.svg)
+
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-commit-streak-dark.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-contributions-dark.svg) 
 
