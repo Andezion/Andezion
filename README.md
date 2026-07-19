@@ -16,6 +16,13 @@
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-languages-dark.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/cw-rank-dark.svg)
 
+[comment]: <> (тут у нас инфа про литкод, 5 виджетов, 1 первом левом ряду у нас 3 виджета, а именно текст, языки и количество решенных задач, они идут один под одним и состыкованы по ширине, во втором ряду у нас 2 виджета, а именно навыки и бейджики и тоже состыкованы по ширине)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/leetcode.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-badges-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-languages-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-skills-dark.svg)
+![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-solved-dark.svg)
+
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-commit-streak-dark.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-contributions-dark.svg) 
 
@@ -27,11 +34,8 @@
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-stats-dark.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-visitors-dark.svg)
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/langs-dark.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-badges-dark.svg)
 
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-languages-dark.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-skills-dark.svg)
-![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/lc-solved-dark.svg)
+
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/streak-dark.svg)
 
 ![](https://raw.githubusercontent.com/Andezion/ReadmeStuff/main/readme_test/github-engagement-dark.svg)
