@@ -94,31 +94,6 @@ I have worked with both relational and non-relational databases, as well as back
 ## Stats & Competitive Programming
 
 <table>
-<tr>
-<td align="center" width="50%">
-  
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andezion&theme=github_dark" width="100%"/>
-
-</td>
-<td align="center" width="50%">
-  
-<img src="https://leetcard.jacoblin.cool/Andezion?ext=activity&theme=dark" width="100%"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-  
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Andezion&theme=dark&hide_border=true" width="100%"/>
-
-</td>
-<td align="center" width="50%">
-  
-<img src="https://github.r2v.ch/codewars?user=Andezion&stroke=%23BB432C" width="100%"/>
-
-</td>
-</tr>
 
 <tr>
 <td colspan="2" align="center">
